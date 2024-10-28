@@ -2,6 +2,16 @@
 
 This repository contains the code of Remember and Forget Pixel Attack using RL ([RFPAR](https://nips.cc/virtual/2024/poster/95435)) for image classification tasks using ResNext and object detection tasks using YOLO.
 
+If you use the code or find this project helpful, please consider citing our paper.
+```bash
+@article{Song2024RFPAR,
+  title={Amnesia as a Catalyst for Enhancing Black Box Pixel Attacks in Image Classification and Object Detection},
+  author={Song, S., Ko, D., and Jung, J., H.},
+  booktitle={Advances in Neural Information Processing Systems, NeurIPS},
+  year={2024}
+}
+```
+
 ## Project Structure
 
 - `Adversarial_RL_simple.py`: Contains the implementation of the adversarial reinforcement learning algorithm.
