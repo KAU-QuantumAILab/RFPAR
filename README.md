@@ -1,6 +1,6 @@
 # Amnesia as a Catalyst for Enhancing Black Box Pixel Attacks in Image Classification and Object Detection
 
-This repository contains the code of Remember and Forget Pixel Attack using RL ([RFPAR](https://nips.cc/virtual/2024/poster/95435)) for image classification tasks using ResNext and object detection tasks using YOLO.
+This repository contains the code of Remember and Forget Pixel Attack using RL ([RFPAR](https://openreview.net/forum?id=NTkYSWnVjl)) for image classification tasks using ResNext and object detection tasks using YOLO.
 
 If you use the code or find this project helpful, please consider citing our paper.
 ```bash
